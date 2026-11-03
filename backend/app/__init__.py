@@ -1,0 +1,1 @@
+"""USB Qalqon web API."""
